@@ -1,0 +1,47 @@
+#menu {
+height: 52px;
+width: 968px;
+background-color: #00F;
+}
+#lista1 {
+    font-family:Arial;
+    font-weight:bold;
+    font-size:13px;
+	color:white;
+}
+ #lista1 li {
+     display:inline;
+     padding-left:3px;
+     padding-right:3px;
+	 background-color:black;
+}
+a {
+    color:white;
+    text-decoration:none;
+}
+a:hover {
+    color:black;
+    background-color:lightgray;
+}
+ 
+#slices {
+height: 359px;
+width: 968px;
+background-color: #FF0;
+}
+ 
+#cuerpo {
+display:inline;
+height: 700px;
+background-color: #C60;
+}
+ 
+#contenedor {
+width: 968px;
+}
+ 
+#footer {
+height: 50px;
+width: 968px;
+background-color: #C09;
+}
