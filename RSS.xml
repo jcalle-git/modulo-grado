@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>RSS</title>
         <link> https://jcalle-git.github.io/modulo-grado/ </link>
         <description>Noticias Tecnología</description>
         <item>
             <title>Android</title>
-            <link> https://elandroidelibre.elespanol.com/ </link>
+            <atom:link href="https://elandroidelibre.elespanol.com/" rel="self" type="application/rss+xml" />
             <description>Noticias Tecnología de android</description>
             <guid>https://elandroidelibre.elespanol.com/</guid>
         </item>
         <item>
              <title>Github</title>
-            <link> https://developer.github.com/changes/ </link>
+            <atom:link href="https://developer.github.com/changes/" rel="self" type="application/rss+xml" />
             <description>Noticias Tecnología de Github</description>
             <guid>https://developer.github.com/changes/</guid>
         </item>
