@@ -25,7 +25,7 @@ a:hover {
 }
  
 #slices {
-height: 359px;
+height: 200px;
 width: 968px;
 background-color: #FF0;
 }
@@ -46,9 +46,8 @@ width: 968px;
  
 
 #footer {
-height: 50px;
-width: 968px;
-background-color: #C09;
+width: 100%;
+background-color: darkolivegreen;
 }
 #izdo{
     width: 33%;
