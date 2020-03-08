@@ -45,8 +45,24 @@ background-color: #C60;
 width: 968px;
 }
  
+
 #footer {
 height: 50px;
 width: 968px;
 background-color: #C09;
+}
+#izdo{
+    width: 33%;
+    height: 100%;
+    background-color: darkolivegreen;
+}
+#cen{
+    width: 33%;
+    height: 100%;
+    background-color: darkolivegreen;
+}
+#derecho{
+    width: 33%;
+    height: 100%;
+    background-color: darkolivegreen;
 }
