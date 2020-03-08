@@ -49,19 +49,25 @@ width: 100%;
 background-color: darkolivegreen;
 }
 #izdo{
-    width: 33%;
+    width: 25%;
     height: 100%;
     background-color: darkolivegreen;
     float: left;
 }
 #cen{
-    width: 33%;
+    width: 25%;
     height: 100%;
     background-color: darkolivegreen;
     float: left;
 }
 #derecho{
-    width: 33%;
+    width: 25%;
+    height: 100%;
+    background-color: darkolivegreen;
+    float: left;
+}
+#derecho_1{
+    width: 25%;
     height: 100%;
     background-color: darkolivegreen;
     float: left;
