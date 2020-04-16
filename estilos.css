@@ -76,3 +76,9 @@ background-color: darkolivegreen;
     width: 100px;
     height: 100px;
 }
+form{
+    width: 75%;
+    padding: 10%;
+    border-radius: 10px;
+    margin: auto;
+}
